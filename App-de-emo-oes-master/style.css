@@ -1,0 +1,75 @@
+body{
+    color: blue;
+    background-image: url(Emoji.jpg);
+    background-size: 1400px;
+    background-repeat: no-repeat, repeat-x;
+    background-position: center;
+}
+#titulo{
+    color: #e85f5f;
+    font-family: 'Rubik Glitch', cursive;
+    font-size: 40px;
+}
+#emojis{
+    background-color: pink;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.emotion_name{
+    font-size: 40px;
+}
+.emoji{
+    font-size: 40px;
+}
+span{
+    font-size: 30px;
+}
+button{
+    border-radius: 50px !important;
+}
+#camera, #result{
+    width:310px;
+    height: 310px;
+    background-color: black;
+    border-radius: 20px;
+}
+.snapshot{
+    background-color: white;
+    width: 340px;
+    height: 430px;
+    padding: 10px;
+    border-radius:30px;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+.heading{
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 7px;
+}
+label{
+    font-size: 14px;
+    color: #e85f5f;
+    padding: 6px;
+    border-radius:10px;
+    background-color: white;
+}
+p{
+    color: #e85f5f;
+    font-weight: bold;
+}
+img{
+    border: 1px solid black;
+}
+#botao1{
+    background-color: #ff8800;
+    border-radius: 20px;
+    margin-top: none;
+}
+#botao2{
+    background-color: #ff8800;
+    border-radius: 20px;
+}
+
